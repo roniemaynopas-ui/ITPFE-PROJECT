@@ -1,4 +1,5 @@
 # GitHub Pages deployment workflow.
+# The workflow can also be started manually.
 name: Deploy to GitHub Pages
 
 on:
